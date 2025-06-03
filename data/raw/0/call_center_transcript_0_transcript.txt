@@ -1,0 +1,11 @@
+Meeting transcript: 
+"Agent: Good afternoon, this is Maria from SecureBank. I see you're attempting to transfer $18,000 to BitInvest Pro. Can you tell me about this?
+Customer: It's for cryptocurrency trading. My mentor says this is a limited-time opportunity.
+Agent: Who is your mentor?
+Customer: Sophie Williams. She's been teaching me about crypto trading for the past month through WhatsApp.
+Agent: Has she asked for any fees?
+Customer: Just this investment. She's waiving her usual $5,000 mentorship fee if I invest today.
+Agent: Have you made any profits yet from her advice?
+Customer: She showed me my portfolio is already up 40%, but I need to add more capital to withdraw anything.
+Agent: So you can see profits but can't access them?
+Customer: Right, she says it's a security feature. Once I hit $20,000 invested, I can withdraw everything."

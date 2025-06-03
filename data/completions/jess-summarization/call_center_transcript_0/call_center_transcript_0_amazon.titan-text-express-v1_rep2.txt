@@ -1,0 +1,15 @@
+<output>
+SUMMARY:
+Customer transferring $18,000 to BitInvest Pro for cryptocurrency trading after mentorship with Sophie Williams. Mentor waiving $5,000 fee if investment made today. Customer has seen portfolio gains but can't withdraw until $20,000 invested.
+
+NEXT BEST QUESTIONS:
+* Can you provide Sophie Williams's contact details or company registration information?
+* Have you verified BitInvest Pro with financial regulators?
+* What specific trading strategy is supposedly guaranteeing these returns?
+
+DOT POINT SUMMARY:
+* Unsolicited contact via WhatsApp
+* Mentorship fee waived if investment made today
+* Customer has seen portfolio gains but can't withdraw until $20,000 invested
+* Mentor claims security feature for withdrawal restrictions
+</output>

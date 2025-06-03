@@ -1,0 +1,15 @@
+<output>
+SUMMARY:
+Customer transferring $12,000 to crypto platform after joining VIP group promising 20% monthly returns. Agent questioning legitimacy of investment and recipient.
+
+NEXT BEST QUESTIONS:
+* Can you provide documentation of the investment opportunity?
+* Have you verified SkyAlpha Solutions with financial regulators?
+* What specific trading strategy is supposedly guaranteeing these returns?
+
+DOT POINT SUMMARY:
+* Unsolicited contact via phone
+* High monthly returns of 20%
+* Use of VIP group and broker platform
+* Trust in the group without consulting licensed advisors
+</output>

@@ -1,0 +1,9 @@
+Meeting transcript: 
+"Agent: Hello, this is Ravi from EastBank. I’m calling about a $12,000 transfer flagged for review. Can you confirm this transaction?
+Customer: Yes, I authorized that. It’s an investment.
+Agent: Can you elaborate on the investment?
+Customer: It’s a crypto opportunity. I joined a VIP group that guarantees 20% monthly returns.
+Agent: That’s quite high. Who is the recipient, “SkyAlpha Solutions”?
+Customer: That’s their broker platform. They said I had to act fast before the offer closes.
+Agent: Have you spoken to any licensed advisors about this?
+Customer: No, I trust the group—everyone’s making money."

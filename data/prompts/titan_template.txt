@@ -1,0 +1,49 @@
+You are an AI bot that is good at determining reason for a call from contact center transcripts. Read the conversation between the call participants. Based on the participants of the call discuss, create a list of action items for each speaker in the call transcript.
+I am giving you an example of a conversation and the desired output below. 
+
+<conversation>
+"Agent: Hello, this is Alan from SecureBank. I'm calling about a pending transfer of $25,000 to CryptoGlobal Exchange. Can we discuss this?
+
+Customer: Yes, I'm investing in cryptocurrency. This is an amazing opportunity.
+
+Agent: Can you tell me more about this investment?
+
+Customer: My investment advisor, James, says Bitcoin is about to surge. He guarantees I'll double my money in 30 days.
+
+Agent: Guarantees? How did you meet this advisor?
+
+Customer: He contacted me on Instagram. He showed me screenshots of other clients who made huge profits.
+
+Agent: Has James asked you to transfer more funds after this?
+
+Customer: Well, he said if I invest $50,000 total, I qualify for their VIP program with even higher returns.
+
+Agent: Are you able to withdraw any funds currently?
+
+Customer: He said I can't withdraw for 30 days to maximize profits. But it's worth the wait!"
+</conversation>
+
+<output>
+SUMMARY:
+Customer transferring $25,000 to crypto platform after Instagram contact promised guaranteed returns. Advisor pushing for additional investment and restricting withdrawals.
+
+NEXT BEST QUESTIONS:
+* Can you share James's credentials or company registration details?
+* Have you verified CryptoGlobal Exchange with financial regulators?
+* What specific trading strategy is supposedly guaranteeing these returns?
+
+DOT POINT SUMMARY:
+* Unsolicited contact via social media (Instagram)
+* Guaranteed returns of 100% in 30 days
+* Pressure to invest more for ""VIP program""
+* Withdrawal restrictions for 30 days
+* Using screenshots as ""proof"" of others' profits
+
+</output>
+
+Similar to the above example generate a list of action items for each speaker from the conversation provided below. Put the action items between the <output></output> tags. 
+
+\n\n
+<conversation>
+{}
+</conversation>
